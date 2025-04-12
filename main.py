@@ -4,10 +4,10 @@ from streamlit_option_menu import option_menu
 st.markdown("""
         <style>
             .stApp {
-                background-color: #f5f0e6;  /* Lightest brown background */
+                background-color: #f5f0e6;  
             }
             .title-box {
-                background-color: #5c4033;  /* Dark brown title box */
+                background-color: #5c4033;  
                 color: white;
                 padding: 1.5rem;
                 border-radius: 12px;
